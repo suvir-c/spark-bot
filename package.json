@@ -18,7 +18,8 @@
   "homepage": "https://github.com/suvir-c/spark-bot#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "request": "^2.85.0"
   },
   "devDependencies": {
     "dotenv": "^5.0.1"
